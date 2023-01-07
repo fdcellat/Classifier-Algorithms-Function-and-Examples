@@ -111,6 +111,10 @@ def train_classifier(X_train, y_train, X_test, y_test, algorithm='random_forest'
         accuracy = accuracy_score(y_train, y_pred_train)
         precision = precision_score(y_train, y_pred_train)
         recall = recall_score(y_train, y_pred_train)
+        
+    print("accuracy",accuracy)
+    print("precision",precision)
+    print("recall",recall)
     return clf,scores, accuracy, precision, recall
 
 
