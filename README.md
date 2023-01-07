@@ -8,7 +8,6 @@ In this example our data set is Titanic and we can choose alghoritms
 Logistic Regression Output
 
 ![image](https://user-images.githubusercontent.com/60134593/211160622-d8388f0b-fc96-47b6-94b0-8bc10b309b89.png)
-
 ![image](https://user-images.githubusercontent.com/60134593/211160615-128e3f56-4867-488f-b154-9a1310711a51.png)
 
 accuracy 0.8019662921348315
@@ -18,7 +17,6 @@ recall 0.6940298507462687
 Random Forest Output 
 
 ![image](https://user-images.githubusercontent.com/60134593/211160713-613b1c4e-600d-430a-b6e3-2e33c921eed2.png)
-
 ![image](https://user-images.githubusercontent.com/60134593/211160720-eb605502-ff2a-4e86-a5b8-cfb790a4bec4.png)
 
 accuracy 0.9803370786516854
@@ -28,7 +26,6 @@ recall 0.9626865671641791
 KNN Output
 
 ![image](https://user-images.githubusercontent.com/60134593/211160751-305028f7-68ec-4b71-b6d9-07b46eabe618.png)
-
 ![image](https://user-images.githubusercontent.com/60134593/211160754-639bf6f7-65fb-4bd3-9bca-71cc50b7e1e3.png)
 
 accuracy 0.8693820224719101
